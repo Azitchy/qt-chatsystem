@@ -18,7 +18,7 @@ function App() {
 		          <div className="flex items-center space-x-4">
 		            <nav className="hidden md:flex space-x-4">
 		              <a href="#" className="text-gray-700 hover:text-indigo-600">Home</a>
-		              <a href="#" className="text-gray-700 hover:text-indigo-600">About</a>
+		              <a href="#" className="text-gray-700 hover:text-indigo-600">Friend list</a>
 		            </nav>
 
 		            <button className="px-4 py-2 bg-indigo-600 text-white rounded-md hover:bg-indigo-700">Login</button>
@@ -28,6 +28,7 @@ function App() {
 		    </header>
     </>
   )
+
 }
 
 export default App
